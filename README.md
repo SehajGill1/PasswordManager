@@ -50,7 +50,7 @@ Launch the app.
 	"Remove Selected" to delete an entry (select from list)
 
 # **Preview**
-
+![App UI](Screenshot PassMngr.png)
 
 Sehaj Gill
 Bachelor of Science in Software Engineering
